@@ -8,7 +8,7 @@ The application is designed for educational institutions to manage attendance di
 
 ## Key Features
 
-- User authentication for teachers and administrators
+- User authentication for teachers, students and administrators
 - Student, teacher, department, subject, and semester management
 - Attendance capture and reporting
 - Backend REST API built with Node.js and Express
